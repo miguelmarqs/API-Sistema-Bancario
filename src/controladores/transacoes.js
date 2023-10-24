@@ -111,5 +111,6 @@ const transferir = (req, res) =>{
 
 module.exports = {
     depositar,
-    sacar
+    sacar,
+    transferir
 }
