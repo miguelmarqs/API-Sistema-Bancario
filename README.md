@@ -26,5 +26,5 @@ npm install
 
 ### Executar o projeto
 Navegue até o diretório do projeto e execute o seguinte comando:
-node index.js 
+npm run dev
 
