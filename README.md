@@ -17,7 +17,7 @@ A API permite fazer:
 Abra um terminal e navegue até o diretório onde você deseja clonar o projeto. Em seguida, execute o seguinte comando:
 
 ````bash
-git clone https://github.com/miguelmarqs/API-Consultorio-Medico.git
+git clone https://github.com/miguelmarqs/API-Sistema-Bancario.git
 
 ````
 ### Instalar as dependências
