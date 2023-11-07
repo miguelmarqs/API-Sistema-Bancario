@@ -11,20 +11,25 @@ A API permite fazer:
 -   Consultar saldo da conta bancária
 -   Emitir extrato bancário
 
-## Passo a passo para executar um projeto do GitHub
-
-### Fork do projeto
-Acesse o repositório do projeto no GitHub e clique no botão "Fork".
+## Passo a passo para executar o projeto
 
 ### Clonar o repositório
 Abra um terminal e navegue até o diretório onde você deseja clonar o projeto. Em seguida, execute o seguinte comando:
-git clone https://github.com/<seu-usuário>/<nome-do-projeto>.git
 
+````bash
+git clone https://github.com/miguelmarqs/API-Consultorio-Medico.git
+
+````
 ### Instalar as dependências
 Navegue até o diretório do projeto e execute o seguinte comando:
+````bash
 npm install
+````
 
 ### Executar o projeto
 Navegue até o diretório do projeto e execute o seguinte comando:
+````bash
 npm run dev
+````
 
+## Projeto detalhado
