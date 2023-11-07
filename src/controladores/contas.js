@@ -1,5 +1,5 @@
 const express = require('express');
-let {banco, contas, saques, depositos, transferencias, depositos, transferencias} = require('../bancodedados');
+let {banco, contas, saques, depositos, transferencias} = require('../bancodedados');
 
 const listarContas = (req, res) => {
     const {senha_banco} = req.query;
